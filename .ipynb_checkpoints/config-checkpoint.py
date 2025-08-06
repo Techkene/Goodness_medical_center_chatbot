@@ -6,7 +6,7 @@ HOSPITAL_PHONE = "123-456-7890" # Placeholder Phone Number
 # --- Gemini Configuration ---
 GEMINI_MODEL_NAME = "gemini-2.0-flash"
 # The API key will be automatically provided by the Canvas environment if left empty.
-GEMINI_API_KEY = "AIzaSyAWtnPXdiasEs6b-RxO_0vhgzi4_jD4B2c" # Leave empty for Canvas environment
+GEMINI_API_KEY = "" # Leave empty for Canvas environment
 
 # --- Knowledge Base (Simplified for demonstration) ---
 # In a real application, this could be loaded from a database, CSV, or external API.
